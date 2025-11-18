@@ -49,7 +49,7 @@ function deleteLast() {
 }
 
 // ============================================
-// PERSONA A (NYCOLAS): IMPLEMENTAR ESTAS FUNCIONES
+// Implementado por Nycolas
 // ============================================
 
 /**
@@ -59,9 +59,7 @@ function deleteLast() {
  * @returns {number} - Resultado de la suma
  */
 function add(a, b) {
-    // TODO: Implementar la suma
-    // return a + b;
-    return 0; // Placeholder - NYCOLAS: reemplazar con la implementación
+    return a + b;
 }
 
 /**
@@ -71,9 +69,7 @@ function add(a, b) {
  * @returns {number} - Resultado de la resta
  */
 function subtract(a, b) {
-    // TODO: Implementar la resta
-    // return a - b;
-    return 0; // Placeholder - NYCOLAS: reemplazar con la implementación
+    return a - b;
 }
 
 // ============================================
