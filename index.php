@@ -50,7 +50,7 @@
         
         <div class="info">
             <h2>Información del Proyecto</h2>
-            <p><strong>Desarrolladores:</strong> Nycolas (Persona A) y Juan Pablo (Persona B)</p>
+            <p><strong>Desarrolladores:</strong> Nycolas y Juan Pablo</p>
             <p><strong>Tecnologías:</strong> PHP, JavaScript, CSS</p>
             <p><strong>Operaciones:</strong></p>
             <ul>

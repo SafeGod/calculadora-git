@@ -300,12 +300,12 @@ calculadora-git/
 
 ## Notas del Desarrollo
 
-### Nycolas (Persona A)
+### Nycolas 
 - Responsable de operaciones básicas (suma, resta)
 - Configuración inicial del proyecto
 - Merge final de todas las ramas
 
-### Juan Pablo (Persona B)
+### Juan Pablo 
 - Responsable de operaciones avanzadas (multiplicación, división)
 - Implementación de validación de división por cero
 - Pruebas de funcionalidades

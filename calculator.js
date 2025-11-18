@@ -1,9 +1,3 @@
-// ============================================
-// CALCULADORA - TALLER GIT & GITHUB
-// Nycolas (Persona A): Suma y Resta
-// Juan Pablo (Persona B): Multiplicación y División
-// ============================================
-
 // Variables globales
 let currentValue = '';
 let previousValue = '';
