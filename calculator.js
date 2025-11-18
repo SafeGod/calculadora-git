@@ -83,11 +83,8 @@ function subtract(a, b) {
  * @returns {number} - Resultado de la multiplicación
  */
 function multiply(a, b) {
-    // TODO: Implementar la multiplicación
-    // return a * b;
-    return 0; // Placeholder - JUAN PABLO: reemplazar con la implementación
+    return a * b;
 }
-
 /**
  * Función para dividir dos números
  * @param {number} a - Primer número
@@ -95,14 +92,11 @@ function multiply(a, b) {
  * @returns {number} - Resultado de la división
  */
 function divide(a, b) {
-    // TODO: Implementar la división
-    // IMPORTANTE: Validar que b no sea 0
-    // if (b === 0) {
-    //     alert('Error: No se puede dividir por cero');
-    //     return 0;
-    // }
-    // return a / b;
-    return 0; // Placeholder - JUAN PABLO: reemplazar con la implementación
+    if (b === 0) {
+        alert('Error: No se puede dividir por cero');
+        return 0;
+    }
+    return a / b;
 }
 
 // ============================================
